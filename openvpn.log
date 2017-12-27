@@ -1,0 +1,419 @@
+Wed Dec 27 01:48:22 2017 us=445895 Current Parameter Settings:
+Wed Dec 27 01:48:22 2017 us=446176   config = 'server-orange.conf'
+Wed Dec 27 01:48:22 2017 us=446246   mode = 1
+Wed Dec 27 01:48:22 2017 us=446310   persist_config = DISABLED
+Wed Dec 27 01:48:22 2017 us=446373   persist_mode = 1
+Wed Dec 27 01:48:22 2017 us=446435   show_ciphers = DISABLED
+Wed Dec 27 01:48:22 2017 us=446497   show_digests = DISABLED
+Wed Dec 27 01:48:22 2017 us=446558   show_engines = DISABLED
+Wed Dec 27 01:48:22 2017 us=446619   genkey = DISABLED
+Wed Dec 27 01:48:22 2017 us=446680   key_pass_file = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=446742   show_tls_ciphers = DISABLED
+Wed Dec 27 01:48:22 2017 us=446804   connect_retry_max = 0
+Wed Dec 27 01:48:22 2017 us=446865 Connection profiles [0]:
+Wed Dec 27 01:48:22 2017 us=446928   proto = udp
+Wed Dec 27 01:48:22 2017 us=446989   local = '192.168.1.81'
+Wed Dec 27 01:48:22 2017 us=447049   local_port = '1194'
+Wed Dec 27 01:48:22 2017 us=447110   remote = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=447171   remote_port = '1194'
+Wed Dec 27 01:48:22 2017 us=447232   remote_float = DISABLED
+Wed Dec 27 01:48:22 2017 us=447292   bind_defined = DISABLED
+Wed Dec 27 01:48:22 2017 us=447353   bind_local = ENABLED
+Wed Dec 27 01:48:22 2017 us=447413   bind_ipv6_only = DISABLED
+Wed Dec 27 01:48:22 2017 us=447475   connect_retry_seconds = 5
+Wed Dec 27 01:48:22 2017 us=447536   connect_timeout = 120
+Wed Dec 27 01:48:22 2017 us=447597   socks_proxy_server = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=447659   socks_proxy_port = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=447720   tun_mtu = 1500
+Wed Dec 27 01:48:22 2017 us=447781   tun_mtu_defined = ENABLED
+Wed Dec 27 01:48:22 2017 us=447842   link_mtu = 1500
+Wed Dec 27 01:48:22 2017 us=447903   link_mtu_defined = DISABLED
+Wed Dec 27 01:48:22 2017 us=447965   tun_mtu_extra = 0
+Wed Dec 27 01:48:22 2017 us=448025   tun_mtu_extra_defined = DISABLED
+Wed Dec 27 01:48:22 2017 us=448086   mtu_discover_type = -1
+Wed Dec 27 01:48:22 2017 us=448147   fragment = 0
+Wed Dec 27 01:48:22 2017 us=448208   mssfix = 1450
+Wed Dec 27 01:48:22 2017 us=448268   explicit_exit_notification = 0
+Wed Dec 27 01:48:22 2017 us=448329 Connection profiles END
+Wed Dec 27 01:48:22 2017 us=448389   remote_random = DISABLED
+Wed Dec 27 01:48:22 2017 us=448449   ipchange = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=448509   dev = 'tun'
+Wed Dec 27 01:48:22 2017 us=448570   dev_type = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=448630   dev_node = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=448690   lladdr = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=448750   topology = 1
+Wed Dec 27 01:48:22 2017 us=448810   ifconfig_local = '10.8.0.1'
+Wed Dec 27 01:48:22 2017 us=448872   ifconfig_remote_netmask = '10.8.0.2'
+Wed Dec 27 01:48:22 2017 us=448933   ifconfig_noexec = DISABLED
+Wed Dec 27 01:48:22 2017 us=448993   ifconfig_nowarn = DISABLED
+Wed Dec 27 01:48:22 2017 us=449054   ifconfig_ipv6_local = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=449116   ifconfig_ipv6_netbits = 0
+Wed Dec 27 01:48:22 2017 us=449176   ifconfig_ipv6_remote = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=449236   shaper = 0
+Wed Dec 27 01:48:22 2017 us=449297   mtu_test = 0
+Wed Dec 27 01:48:22 2017 us=449356   mlock = DISABLED
+Wed Dec 27 01:48:22 2017 us=449417   keepalive_ping = 10
+Wed Dec 27 01:48:22 2017 us=449478   keepalive_timeout = 120
+Wed Dec 27 01:48:22 2017 us=449537   inactivity_timeout = 0
+Wed Dec 27 01:48:22 2017 us=449597   ping_send_timeout = 10
+Wed Dec 27 01:48:22 2017 us=449658   ping_rec_timeout = 240
+Wed Dec 27 01:48:22 2017 us=449718   ping_rec_timeout_action = 2
+Wed Dec 27 01:48:22 2017 us=449781   ping_timer_remote = DISABLED
+Wed Dec 27 01:48:22 2017 us=449843   remap_sigusr1 = 0
+Wed Dec 27 01:48:22 2017 us=449903   persist_tun = ENABLED
+Wed Dec 27 01:48:22 2017 us=449963   persist_local_ip = DISABLED
+Wed Dec 27 01:48:22 2017 us=450025   persist_remote_ip = DISABLED
+Wed Dec 27 01:48:22 2017 us=450086   persist_key = ENABLED
+Wed Dec 27 01:48:22 2017 us=450146   passtos = DISABLED
+Wed Dec 27 01:48:22 2017 us=450208   resolve_retry_seconds = 1000000000
+Wed Dec 27 01:48:22 2017 us=450268   resolve_in_advance = DISABLED
+Wed Dec 27 01:48:22 2017 us=450357   username = 'nobody'
+Wed Dec 27 01:48:22 2017 us=450419   groupname = 'nogroup'
+Wed Dec 27 01:48:22 2017 us=450481   chroot_dir = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=450541   cd_dir = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=450601   writepid = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=450661   up_script = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=450721   down_script = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=450781   down_pre = DISABLED
+Wed Dec 27 01:48:22 2017 us=450841   up_restart = DISABLED
+Wed Dec 27 01:48:22 2017 us=450901   up_delay = DISABLED
+Wed Dec 27 01:48:22 2017 us=450961   daemon = DISABLED
+Wed Dec 27 01:48:22 2017 us=451021   inetd = 0
+Wed Dec 27 01:48:22 2017 us=451081   log = ENABLED
+Wed Dec 27 01:48:22 2017 us=451141   suppress_timestamps = DISABLED
+Wed Dec 27 01:48:22 2017 us=451202   machine_readable_output = DISABLED
+Wed Dec 27 01:48:22 2017 us=451263   nice = 0
+Wed Dec 27 01:48:22 2017 us=451324   verbosity = 4
+Wed Dec 27 01:48:22 2017 us=451384   mute = 0
+Wed Dec 27 01:48:22 2017 us=451444   gremlin = 0
+Wed Dec 27 01:48:22 2017 us=451504   status_file = 'openvpn-status.log'
+Wed Dec 27 01:48:22 2017 us=451566   status_file_version = 1
+Wed Dec 27 01:48:22 2017 us=451627   status_file_update_freq = 60
+Wed Dec 27 01:48:22 2017 us=451689   occ = ENABLED
+Wed Dec 27 01:48:22 2017 us=451749   rcvbuf = 0
+Wed Dec 27 01:48:22 2017 us=451810   sndbuf = 0
+Wed Dec 27 01:48:22 2017 us=451870   mark = 0
+Wed Dec 27 01:48:22 2017 us=451931   sockflags = 0
+Wed Dec 27 01:48:22 2017 us=451991   fast_io = DISABLED
+Wed Dec 27 01:48:22 2017 us=452052   comp.alg = 2
+Wed Dec 27 01:48:22 2017 us=452113   comp.flags = 1
+Wed Dec 27 01:48:22 2017 us=452172   route_script = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=452233   route_default_gateway = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=452294   route_default_metric = 0
+Wed Dec 27 01:48:22 2017 us=452355   route_noexec = DISABLED
+Wed Dec 27 01:48:22 2017 us=452416   route_delay = 0
+Wed Dec 27 01:48:22 2017 us=452477   route_delay_window = 30
+Wed Dec 27 01:48:22 2017 us=452538   route_delay_defined = DISABLED
+Wed Dec 27 01:48:22 2017 us=452599   route_nopull = DISABLED
+Wed Dec 27 01:48:22 2017 us=452660   route_gateway_via_dhcp = DISABLED
+Wed Dec 27 01:48:22 2017 us=452722   allow_pull_fqdn = DISABLED
+Wed Dec 27 01:48:22 2017 us=452787   route 10.8.0.0/255.255.255.0/default (not set)/default (not set)
+Wed Dec 27 01:48:22 2017 us=452850   management_addr = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=452912   management_port = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=452973   management_user_pass = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=453036   management_log_history_cache = 250
+Wed Dec 27 01:48:22 2017 us=453098   management_echo_buffer_size = 100
+Wed Dec 27 01:48:22 2017 us=453159   management_write_peer_info_file = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=453222   management_client_user = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=453284   management_client_group = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=453346   management_flags = 0
+Wed Dec 27 01:48:22 2017 us=453407   shared_secret_file = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=453469   key_direction = 1
+Wed Dec 27 01:48:22 2017 us=453530   ciphername = 'AES-256-CBC'
+Wed Dec 27 01:48:22 2017 us=453592   ncp_enabled = ENABLED
+Wed Dec 27 01:48:22 2017 us=453654   ncp_ciphers = 'AES-256-GCM:AES-128-GCM'
+Wed Dec 27 01:48:22 2017 us=453716   authname = 'SHA1'
+Wed Dec 27 01:48:22 2017 us=453777   prng_hash = 'SHA1'
+Wed Dec 27 01:48:22 2017 us=453838   prng_nonce_secret_len = 16
+Wed Dec 27 01:48:22 2017 us=453900   keysize = 0
+Wed Dec 27 01:48:22 2017 us=453960   engine = DISABLED
+Wed Dec 27 01:48:22 2017 us=454021   replay = ENABLED
+Wed Dec 27 01:48:22 2017 us=454082   mute_replay_warnings = DISABLED
+Wed Dec 27 01:48:22 2017 us=454144   replay_window = 64
+Wed Dec 27 01:48:22 2017 us=454206   replay_time = 15
+Wed Dec 27 01:48:22 2017 us=454267   packet_id_file = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=454329   use_iv = ENABLED
+Wed Dec 27 01:48:22 2017 us=454390   test_crypto = DISABLED
+Wed Dec 27 01:48:22 2017 us=454451   tls_server = ENABLED
+Wed Dec 27 01:48:22 2017 us=454537   tls_client = DISABLED
+Wed Dec 27 01:48:22 2017 us=454600   key_method = 2
+Wed Dec 27 01:48:22 2017 us=454661   ca_file = '/etc/openvpn/easy-rsa/keys/ca.crt'
+Wed Dec 27 01:48:22 2017 us=454723   ca_path = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=454948   dh_file = '/etc/openvpn/easy-rsa/keys/dh2048.pem'
+Wed Dec 27 01:48:22 2017 us=455016   cert_file = '/etc/openvpn/easy-rsa/keys/RPHS.crt'
+Wed Dec 27 01:48:22 2017 us=455080   extra_certs_file = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=455144   priv_key_file = '/etc/openvpn/easy-rsa/keys/RPHS.key'
+Wed Dec 27 01:48:22 2017 us=455208   pkcs12_file = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=455269   cipher_list = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=455331   tls_verify = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=455393   tls_export_cert = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=455454   verify_x509_type = 0
+Wed Dec 27 01:48:22 2017 us=455516   verify_x509_name = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=455578   crl_file = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=455639   ns_cert_type = 0
+Wed Dec 27 01:48:22 2017 us=455700   remote_cert_ku[i] = 0
+Wed Dec 27 01:48:22 2017 us=455762   remote_cert_ku[i] = 0
+Wed Dec 27 01:48:22 2017 us=455823   remote_cert_ku[i] = 0
+Wed Dec 27 01:48:22 2017 us=455884   remote_cert_ku[i] = 0
+Wed Dec 27 01:48:22 2017 us=455945   remote_cert_ku[i] = 0
+Wed Dec 27 01:48:22 2017 us=456007   remote_cert_ku[i] = 0
+Wed Dec 27 01:48:22 2017 us=456068   remote_cert_ku[i] = 0
+Wed Dec 27 01:48:22 2017 us=456129   remote_cert_ku[i] = 0
+Wed Dec 27 01:48:22 2017 us=456190   remote_cert_ku[i] = 0
+Wed Dec 27 01:48:22 2017 us=456251   remote_cert_ku[i] = 0
+Wed Dec 27 01:48:22 2017 us=456313   remote_cert_ku[i] = 0
+Wed Dec 27 01:48:22 2017 us=456374   remote_cert_ku[i] = 0
+Wed Dec 27 01:48:22 2017 us=456435   remote_cert_ku[i] = 0
+Wed Dec 27 01:48:22 2017 us=456495   remote_cert_ku[i] = 0
+Wed Dec 27 01:48:22 2017 us=456556   remote_cert_ku[i] = 0
+Wed Dec 27 01:48:22 2017 us=456617   remote_cert_ku[i] = 0
+Wed Dec 27 01:48:22 2017 us=456679   remote_cert_eku = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=456741   ssl_flags = 0
+Wed Dec 27 01:48:22 2017 us=456802   tls_timeout = 2
+Wed Dec 27 01:48:22 2017 us=456863   renegotiate_bytes = -1
+Wed Dec 27 01:48:22 2017 us=456923   renegotiate_packets = 0
+Wed Dec 27 01:48:22 2017 us=456985   renegotiate_seconds = 3600
+Wed Dec 27 01:48:22 2017 us=457046   handshake_window = 60
+Wed Dec 27 01:48:22 2017 us=457107   transition_window = 3600
+Wed Dec 27 01:48:22 2017 us=457167   single_session = DISABLED
+Wed Dec 27 01:48:22 2017 us=457227   push_peer_info = DISABLED
+Wed Dec 27 01:48:22 2017 us=457287   tls_exit = DISABLED
+Wed Dec 27 01:48:22 2017 us=457349   tls_auth_file = '/etc/openvpn/easy-rsa/keys/ta.key'
+Wed Dec 27 01:48:22 2017 us=457411   tls_crypt_file = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=457473   pkcs11_protected_authentication = DISABLED
+Wed Dec 27 01:48:22 2017 us=457536   pkcs11_protected_authentication = DISABLED
+Wed Dec 27 01:48:22 2017 us=457598   pkcs11_protected_authentication = DISABLED
+Wed Dec 27 01:48:22 2017 us=457659   pkcs11_protected_authentication = DISABLED
+Wed Dec 27 01:48:22 2017 us=457721   pkcs11_protected_authentication = DISABLED
+Wed Dec 27 01:48:22 2017 us=457782   pkcs11_protected_authentication = DISABLED
+Wed Dec 27 01:48:22 2017 us=457844   pkcs11_protected_authentication = DISABLED
+Wed Dec 27 01:48:22 2017 us=457906   pkcs11_protected_authentication = DISABLED
+Wed Dec 27 01:48:22 2017 us=457968   pkcs11_protected_authentication = DISABLED
+Wed Dec 27 01:48:22 2017 us=458030   pkcs11_protected_authentication = DISABLED
+Wed Dec 27 01:48:22 2017 us=458091   pkcs11_protected_authentication = DISABLED
+Wed Dec 27 01:48:22 2017 us=458154   pkcs11_protected_authentication = DISABLED
+Wed Dec 27 01:48:22 2017 us=458216   pkcs11_protected_authentication = DISABLED
+Wed Dec 27 01:48:22 2017 us=458278   pkcs11_protected_authentication = DISABLED
+Wed Dec 27 01:48:22 2017 us=458339   pkcs11_protected_authentication = DISABLED
+Wed Dec 27 01:48:22 2017 us=458401   pkcs11_protected_authentication = DISABLED
+Wed Dec 27 01:48:22 2017 us=458489   pkcs11_private_mode = 00000000
+Wed Dec 27 01:48:22 2017 us=458552   pkcs11_private_mode = 00000000
+Wed Dec 27 01:48:22 2017 us=458615   pkcs11_private_mode = 00000000
+Wed Dec 27 01:48:22 2017 us=458677   pkcs11_private_mode = 00000000
+Wed Dec 27 01:48:22 2017 us=458739   pkcs11_private_mode = 00000000
+Wed Dec 27 01:48:22 2017 us=458802   pkcs11_private_mode = 00000000
+Wed Dec 27 01:48:22 2017 us=458864   pkcs11_private_mode = 00000000
+Wed Dec 27 01:48:22 2017 us=458926   pkcs11_private_mode = 00000000
+Wed Dec 27 01:48:22 2017 us=458988   pkcs11_private_mode = 00000000
+Wed Dec 27 01:48:22 2017 us=459050   pkcs11_private_mode = 00000000
+Wed Dec 27 01:48:22 2017 us=459112   pkcs11_private_mode = 00000000
+Wed Dec 27 01:48:22 2017 us=459174   pkcs11_private_mode = 00000000
+Wed Dec 27 01:48:22 2017 us=459235   pkcs11_private_mode = 00000000
+Wed Dec 27 01:48:22 2017 us=459296   pkcs11_private_mode = 00000000
+Wed Dec 27 01:48:22 2017 us=459359   pkcs11_private_mode = 00000000
+Wed Dec 27 01:48:22 2017 us=459421   pkcs11_private_mode = 00000000
+Wed Dec 27 01:48:22 2017 us=459482   pkcs11_cert_private = DISABLED
+Wed Dec 27 01:48:22 2017 us=459544   pkcs11_cert_private = DISABLED
+Wed Dec 27 01:48:22 2017 us=459605   pkcs11_cert_private = DISABLED
+Wed Dec 27 01:48:22 2017 us=459667   pkcs11_cert_private = DISABLED
+Wed Dec 27 01:48:22 2017 us=459728   pkcs11_cert_private = DISABLED
+Wed Dec 27 01:48:22 2017 us=459790   pkcs11_cert_private = DISABLED
+Wed Dec 27 01:48:22 2017 us=459851   pkcs11_cert_private = DISABLED
+Wed Dec 27 01:48:22 2017 us=459913   pkcs11_cert_private = DISABLED
+Wed Dec 27 01:48:22 2017 us=459974   pkcs11_cert_private = DISABLED
+Wed Dec 27 01:48:22 2017 us=460035   pkcs11_cert_private = DISABLED
+Wed Dec 27 01:48:22 2017 us=460097   pkcs11_cert_private = DISABLED
+Wed Dec 27 01:48:22 2017 us=460158   pkcs11_cert_private = DISABLED
+Wed Dec 27 01:48:22 2017 us=460219   pkcs11_cert_private = DISABLED
+Wed Dec 27 01:48:22 2017 us=460280   pkcs11_cert_private = DISABLED
+Wed Dec 27 01:48:22 2017 us=460342   pkcs11_cert_private = DISABLED
+Wed Dec 27 01:48:22 2017 us=460403   pkcs11_cert_private = DISABLED
+Wed Dec 27 01:48:22 2017 us=460465   pkcs11_pin_cache_period = -1
+Wed Dec 27 01:48:22 2017 us=460525   pkcs11_id = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=460587   pkcs11_id_management = DISABLED
+Wed Dec 27 01:48:22 2017 us=460666   server_network = 10.8.0.0
+Wed Dec 27 01:48:22 2017 us=460735   server_netmask = 255.255.255.0
+Wed Dec 27 01:48:22 2017 us=460803   server_network_ipv6 = ::
+Wed Dec 27 01:48:22 2017 us=460865   server_netbits_ipv6 = 0
+Wed Dec 27 01:48:22 2017 us=460933   server_bridge_ip = 0.0.0.0
+Wed Dec 27 01:48:22 2017 us=461001   server_bridge_netmask = 0.0.0.0
+Wed Dec 27 01:48:22 2017 us=461070   server_bridge_pool_start = 0.0.0.0
+Wed Dec 27 01:48:22 2017 us=461139   server_bridge_pool_end = 0.0.0.0
+Wed Dec 27 01:48:22 2017 us=461201   push_entry = 'route 10.8.0.1 255.255.255.255'
+Wed Dec 27 01:48:22 2017 us=461263   push_entry = 'route 10.8.0.0 255.255.255.0'
+Wed Dec 27 01:48:22 2017 us=461325   push_entry = 'route 192.168.1.81 255.255.255.0'
+Wed Dec 27 01:48:22 2017 us=461387   push_entry = 'dhcp-option DNS 192.168.1.1'
+Wed Dec 27 01:48:22 2017 us=461450   push_entry = 'redirect-gateway def1'
+Wed Dec 27 01:48:22 2017 us=461512   push_entry = 'route 10.8.0.0 255.255.255.0'
+Wed Dec 27 01:48:22 2017 us=461574   push_entry = 'topology net30'
+Wed Dec 27 01:48:22 2017 us=461635   push_entry = 'ping 10'
+Wed Dec 27 01:48:22 2017 us=461695   push_entry = 'ping-restart 120'
+Wed Dec 27 01:48:22 2017 us=461756   ifconfig_pool_defined = ENABLED
+Wed Dec 27 01:48:22 2017 us=461823   ifconfig_pool_start = 10.8.0.4
+Wed Dec 27 01:48:22 2017 us=461892   ifconfig_pool_end = 10.8.0.251
+Wed Dec 27 01:48:22 2017 us=461959   ifconfig_pool_netmask = 0.0.0.0
+Wed Dec 27 01:48:22 2017 us=462021   ifconfig_pool_persist_filename = 'ipp.txt'
+Wed Dec 27 01:48:22 2017 us=462084   ifconfig_pool_persist_refresh_freq = 600
+Wed Dec 27 01:48:22 2017 us=462146   ifconfig_ipv6_pool_defined = DISABLED
+Wed Dec 27 01:48:22 2017 us=462236   ifconfig_ipv6_pool_base = ::
+Wed Dec 27 01:48:22 2017 us=462299   ifconfig_ipv6_pool_netbits = 0
+Wed Dec 27 01:48:22 2017 us=462361   n_bcast_buf = 256
+Wed Dec 27 01:48:22 2017 us=462422   tcp_queue_limit = 64
+Wed Dec 27 01:48:22 2017 us=462483   real_hash_size = 256
+Wed Dec 27 01:48:22 2017 us=462544   virtual_hash_size = 256
+Wed Dec 27 01:48:22 2017 us=462605   client_connect_script = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=462666   learn_address_script = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=462727   client_disconnect_script = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=462789   client_config_dir = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=462850   ccd_exclusive = DISABLED
+Wed Dec 27 01:48:22 2017 us=462911   tmp_dir = '/tmp'
+Wed Dec 27 01:48:22 2017 us=462972   push_ifconfig_defined = DISABLED
+Wed Dec 27 01:48:22 2017 us=463040   push_ifconfig_local = 0.0.0.0
+Wed Dec 27 01:48:22 2017 us=463108   push_ifconfig_remote_netmask = 0.0.0.0
+Wed Dec 27 01:48:22 2017 us=463171   push_ifconfig_ipv6_defined = DISABLED
+Wed Dec 27 01:48:22 2017 us=463237   push_ifconfig_ipv6_local = ::/0
+Wed Dec 27 01:48:22 2017 us=463303   push_ifconfig_ipv6_remote = ::
+Wed Dec 27 01:48:22 2017 us=463365   enable_c2c = ENABLED
+Wed Dec 27 01:48:22 2017 us=463425   duplicate_cn = DISABLED
+Wed Dec 27 01:48:22 2017 us=463486   cf_max = 0
+Wed Dec 27 01:48:22 2017 us=463546   cf_per = 0
+Wed Dec 27 01:48:22 2017 us=463607   max_clients = 1024
+Wed Dec 27 01:48:22 2017 us=463669   max_routes_per_client = 256
+Wed Dec 27 01:48:22 2017 us=463730   auth_user_pass_verify_script = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=463791   auth_user_pass_verify_script_via_file = DISABLED
+Wed Dec 27 01:48:22 2017 us=463853   auth_token_generate = DISABLED
+Wed Dec 27 01:48:22 2017 us=463914   auth_token_lifetime = 0
+Wed Dec 27 01:48:22 2017 us=463975   port_share_host = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=464037   port_share_port = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=464098   client = DISABLED
+Wed Dec 27 01:48:22 2017 us=464158   pull = DISABLED
+Wed Dec 27 01:48:22 2017 us=464219   auth_user_pass_file = '[UNDEF]'
+Wed Dec 27 01:48:22 2017 us=464288 OpenVPN 2.4.0 arm-unknown-linux-gnueabihf [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [PKCS11] [MH/PKTINFO] [AEAD] built on Jul 18 2017
+Wed Dec 27 01:48:22 2017 us=464398 library versions: OpenSSL 1.0.2l  25 May 2017, LZO 2.08
+Wed Dec 27 01:48:22 2017 us=465592 NOTE: your local LAN uses the extremely common subnet address 192.168.0.x or 192.168.1.x.  Be aware that this might create routing conflicts if you connect to the VPN server from public locations such as internet cafes that use the same subnet.
+Wed Dec 27 01:48:22 2017 us=467535 Diffie-Hellman initialized with 2048 bit key
+Wed Dec 27 01:48:22 2017 us=471497 Outgoing Control Channel Authentication: Using 160 bit message hash 'SHA1' for HMAC authentication
+Wed Dec 27 01:48:22 2017 us=471590 Incoming Control Channel Authentication: Using 160 bit message hash 'SHA1' for HMAC authentication
+Wed Dec 27 01:48:22 2017 us=471679 TLS-Auth MTU parms [ L:1622 D:1184 EF:66 EB:0 ET:0 EL:3 ]
+Wed Dec 27 01:48:22 2017 us=472132 ROUTE_GATEWAY 192.168.1.1/255.255.255.0 IFACE=wlan0 HWADDR=b8:27:eb:25:2c:21
+Wed Dec 27 01:48:22 2017 us=476589 TUN/TAP device tun0 opened
+Wed Dec 27 01:48:22 2017 us=476737 TUN/TAP TX queue length set to 100
+Wed Dec 27 01:48:22 2017 us=476865 do_ifconfig, tt->did_ifconfig_ipv6_setup=0
+Wed Dec 27 01:48:22 2017 us=476931 /sbin/ip link set dev tun0 up mtu 1500
+Wed Dec 27 01:48:22 2017 us=481301 /sbin/ip addr add dev tun0 local 10.8.0.1 peer 10.8.0.2
+Wed Dec 27 01:48:22 2017 us=485314 /sbin/ip route add 10.8.0.0/24 via 10.8.0.2
+Wed Dec 27 01:48:22 2017 us=488610 Data Channel MTU parms [ L:1622 D:1450 EF:122 EB:406 ET:0 EL:3 ]
+Wed Dec 27 01:48:22 2017 us=490032 Could not determine IPv4/IPv6 protocol. Using AF_INET
+Wed Dec 27 01:48:22 2017 us=490166 Socket Buffers: R=[163840->163840] S=[163840->163840]
+Wed Dec 27 01:48:22 2017 us=490228 UDPv4 link local (bound): [AF_INET]192.168.1.81:1194
+Wed Dec 27 01:48:22 2017 us=490263 UDPv4 link remote: [AF_UNSPEC]
+Wed Dec 27 01:48:22 2017 us=490335 GID set to nogroup
+Wed Dec 27 01:48:22 2017 us=490377 UID set to nobody
+Wed Dec 27 01:48:22 2017 us=490423 MULTI: multi_init called, r=256 v=256
+Wed Dec 27 01:48:22 2017 us=490514 IFCONFIG POOL: base=10.8.0.4 size=62, ipv6=0
+Wed Dec 27 01:48:22 2017 us=490557 ifconfig_pool_read(), in='igor001,10.8.0.4', TODO: IPv6
+Wed Dec 27 01:48:22 2017 us=490598 succeeded -> ifconfig_pool_set()
+Wed Dec 27 01:48:22 2017 us=490635 IFCONFIG POOL LIST
+Wed Dec 27 01:48:22 2017 us=490673 igor001,10.8.0.4
+Wed Dec 27 01:48:22 2017 us=490819 Initialization Sequence Completed
+Wed Dec 27 01:48:25 2017 us=400774 MULTI: multi_create_instance called
+Wed Dec 27 01:48:25 2017 us=401109 83.22.155.85:49796 Re-using SSL/TLS context
+Wed Dec 27 01:48:25 2017 us=401223 83.22.155.85:49796 LZO compression initializing
+Wed Dec 27 01:48:25 2017 us=401729 83.22.155.85:49796 Control Channel MTU parms [ L:1622 D:1184 EF:66 EB:0 ET:0 EL:3 ]
+Wed Dec 27 01:48:25 2017 us=401813 83.22.155.85:49796 Data Channel MTU parms [ L:1622 D:1450 EF:122 EB:406 ET:0 EL:3 ]
+Wed Dec 27 01:48:25 2017 us=402008 83.22.155.85:49796 Local Options String (VER=V4): 'V4,dev-type tun,link-mtu 1558,tun-mtu 1500,proto UDPv4,comp-lzo,keydir 0,cipher AES-256-CBC,auth SHA1,keysize 256,tls-auth,key-method 2,tls-server'
+Wed Dec 27 01:48:25 2017 us=402075 83.22.155.85:49796 Expected Remote Options String (VER=V4): 'V4,dev-type tun,link-mtu 1558,tun-mtu 1500,proto UDPv4,comp-lzo,keydir 1,cipher AES-256-CBC,auth SHA1,keysize 256,tls-auth,key-method 2,tls-client'
+Wed Dec 27 01:48:25 2017 us=402235 83.22.155.85:49796 TLS: Initial packet from [AF_INET]83.22.155.85:49796, sid=6816b501 54f1cabe
+Wed Dec 27 01:48:25 2017 us=713761 83.22.155.85:49796 VERIFY OK: depth=1, C=DE, ST=NRW, L=Aachen, O=Home, OU=RPHS, CN=RPHS, name=RPHS, emailAddress=igorsowa9@gmial.com
+Wed Dec 27 01:48:25 2017 us=715075 83.22.155.85:49796 VERIFY OK: depth=0, C=DE, ST=NRW, L=Aachen, O=Home, OU=RPHS, CN=igor001, name=RPHS, emailAddress=igorsowa9@gmial.com
+Wed Dec 27 01:48:25 2017 us=723765 83.22.155.85:49796 peer info: IV_VER=2.4.1
+Wed Dec 27 01:48:25 2017 us=723857 83.22.155.85:49796 peer info: IV_PLAT=win
+Wed Dec 27 01:48:25 2017 us=723892 83.22.155.85:49796 peer info: IV_PROTO=2
+Wed Dec 27 01:48:25 2017 us=723926 83.22.155.85:49796 peer info: IV_NCP=2
+Wed Dec 27 01:48:25 2017 us=723959 83.22.155.85:49796 peer info: IV_LZ4=1
+Wed Dec 27 01:48:25 2017 us=723992 83.22.155.85:49796 peer info: IV_LZ4v2=1
+Wed Dec 27 01:48:25 2017 us=724025 83.22.155.85:49796 peer info: IV_LZO=1
+Wed Dec 27 01:48:25 2017 us=724058 83.22.155.85:49796 peer info: IV_COMP_STUB=1
+Wed Dec 27 01:48:25 2017 us=724091 83.22.155.85:49796 peer info: IV_COMP_STUBv2=1
+Wed Dec 27 01:48:25 2017 us=724125 83.22.155.85:49796 peer info: IV_TCPNL=1
+Wed Dec 27 01:48:25 2017 us=724159 83.22.155.85:49796 peer info: IV_GUI_VER=OpenVPN_GUI_11
+Wed Dec 27 01:48:25 2017 us=726604 83.22.155.85:49796 Control Channel: TLSv1.2, cipher TLSv1/SSLv3 ECDHE-RSA-AES256-GCM-SHA384, 2048 bit RSA
+Wed Dec 27 01:48:25 2017 us=726690 83.22.155.85:49796 [igor001] Peer Connection Initiated with [AF_INET]83.22.155.85:49796
+Wed Dec 27 01:48:25 2017 us=726768 igor001/83.22.155.85:49796 MULTI_sva: pool returned IPv4=10.8.0.6, IPv6=(Not enabled)
+Wed Dec 27 01:48:25 2017 us=726916 igor001/83.22.155.85:49796 MULTI: Learn: 10.8.0.6 -> igor001/83.22.155.85:49796
+Wed Dec 27 01:48:25 2017 us=726957 igor001/83.22.155.85:49796 MULTI: primary virtual IP for igor001/83.22.155.85:49796: 10.8.0.6
+Wed Dec 27 01:48:26 2017 us=911314 igor001/83.22.155.85:49796 PUSH: Received control message: 'PUSH_REQUEST'
+Wed Dec 27 01:48:26 2017 us=911608 igor001/83.22.155.85:49796 SENT CONTROL [igor001]: 'PUSH_REPLY,route 10.8.0.1 255.255.255.255,route 10.8.0.0 255.255.255.0,route 192.168.1.81 255.255.255.0,dhcp-option DNS 192.168.1.1,redirect-gateway def1,route 10.8.0.0 255.255.255.0,topology net30,ping 10,ping-restart 120,ifconfig 10.8.0.6 10.8.0.5,peer-id 0,cipher AES-256-GCM' (status=1)
+Wed Dec 27 01:48:26 2017 us=911723 igor001/83.22.155.85:49796 Data Channel MTU parms [ L:1550 D:1450 EF:50 EB:406 ET:0 EL:3 ]
+Wed Dec 27 01:48:26 2017 us=912454 igor001/83.22.155.85:49796 Data Channel Encrypt: Cipher 'AES-256-GCM' initialized with 256 bit key
+Wed Dec 27 01:48:26 2017 us=912539 igor001/83.22.155.85:49796 Data Channel Decrypt: Cipher 'AES-256-GCM' initialized with 256 bit key
+Wed Dec 27 01:48:27 2017 us=506992 igor001/83.22.155.85:49796 MULTI: bad source address from client [::], packet dropped
+Wed Dec 27 01:49:04 2017 us=757755 MULTI: multi_create_instance called
+Wed Dec 27 01:49:04 2017 us=758111 5.184.236.178:4716 Re-using SSL/TLS context
+Wed Dec 27 01:49:04 2017 us=758197 5.184.236.178:4716 LZO compression initializing
+Wed Dec 27 01:49:04 2017 us=758602 5.184.236.178:4716 Control Channel MTU parms [ L:1622 D:1184 EF:66 EB:0 ET:0 EL:3 ]
+Wed Dec 27 01:49:04 2017 us=758689 5.184.236.178:4716 Data Channel MTU parms [ L:1622 D:1450 EF:122 EB:406 ET:0 EL:3 ]
+Wed Dec 27 01:49:04 2017 us=758880 5.184.236.178:4716 Local Options String (VER=V4): 'V4,dev-type tun,link-mtu 1558,tun-mtu 1500,proto UDPv4,comp-lzo,keydir 0,cipher AES-256-CBC,auth SHA1,keysize 256,tls-auth,key-method 2,tls-server'
+Wed Dec 27 01:49:04 2017 us=758950 5.184.236.178:4716 Expected Remote Options String (VER=V4): 'V4,dev-type tun,link-mtu 1558,tun-mtu 1500,proto UDPv4,comp-lzo,keydir 1,cipher AES-256-CBC,auth SHA1,keysize 256,tls-auth,key-method 2,tls-client'
+Wed Dec 27 01:49:04 2017 us=759107 5.184.236.178:4716 TLS: Initial packet from [AF_INET]5.184.236.178:4716, sid=d7a586bb f9a44107
+Wed Dec 27 01:49:04 2017 us=996971 5.184.236.178:4716 VERIFY OK: depth=1, C=DE, ST=NRW, L=Aachen, O=Home, OU=RPHS, CN=RPHS, name=RPHS, emailAddress=igorsowa9@gmial.com
+Wed Dec 27 01:49:04 2017 us=999414 5.184.236.178:4716 VERIFY OK: depth=0, C=DE, ST=NRW, L=Aachen, O=Home, OU=RPHS, CN=igor001, name=RPHS, emailAddress=igorsowa9@gmial.com
+Wed Dec 27 01:49:05 2017 us=75645 5.184.236.178:4716 peer info: IV_VER=2.4.1
+Wed Dec 27 01:49:05 2017 us=75827 5.184.236.178:4716 peer info: IV_PLAT=win
+Wed Dec 27 01:49:05 2017 us=75902 5.184.236.178:4716 peer info: IV_PROTO=2
+Wed Dec 27 01:49:05 2017 us=75973 5.184.236.178:4716 peer info: IV_NCP=2
+Wed Dec 27 01:49:05 2017 us=76042 5.184.236.178:4716 peer info: IV_LZ4=1
+Wed Dec 27 01:49:05 2017 us=76112 5.184.236.178:4716 peer info: IV_LZ4v2=1
+Wed Dec 27 01:49:05 2017 us=76182 5.184.236.178:4716 peer info: IV_LZO=1
+Wed Dec 27 01:49:05 2017 us=76253 5.184.236.178:4716 peer info: IV_COMP_STUB=1
+Wed Dec 27 01:49:05 2017 us=76323 5.184.236.178:4716 peer info: IV_COMP_STUBv2=1
+Wed Dec 27 01:49:05 2017 us=76394 5.184.236.178:4716 peer info: IV_TCPNL=1
+Wed Dec 27 01:49:05 2017 us=76481 5.184.236.178:4716 peer info: IV_GUI_VER=OpenVPN_GUI_11
+Wed Dec 27 01:49:07 2017 us=589652 5.184.236.178:4716 Control Channel: TLSv1.2, cipher TLSv1/SSLv3 ECDHE-RSA-AES256-GCM-SHA384, 2048 bit RSA
+Wed Dec 27 01:49:07 2017 us=589906 5.184.236.178:4716 [igor001] Peer Connection Initiated with [AF_INET]5.184.236.178:4716
+Wed Dec 27 01:49:07 2017 us=590027 5.184.236.178:4716 PUSH: Received control message: 'PUSH_REQUEST'
+Wed Dec 27 01:49:07 2017 us=591012 MULTI: new connection by client 'igor001' will cause previous active sessions by this client to be dropped.  Remember to use the --duplicate-cn option if you want multiple clients using the same certificate or username to concurrently connect.
+Wed Dec 27 01:49:07 2017 us=591104 MULTI_sva: pool returned IPv4=10.8.0.6, IPv6=(Not enabled)
+Wed Dec 27 01:49:07 2017 us=591399 MULTI: Learn: 10.8.0.6 -> igor001/5.184.236.178:4716
+Wed Dec 27 01:49:07 2017 us=591486 MULTI: primary virtual IP for igor001/5.184.236.178:4716: 10.8.0.6
+Wed Dec 27 01:49:11 2017 us=796770 igor001/5.184.236.178:4716 PUSH: Received control message: 'PUSH_REQUEST'
+Wed Dec 27 01:49:11 2017 us=797109 igor001/5.184.236.178:4716 SENT CONTROL [igor001]: 'PUSH_REPLY,route 10.8.0.1 255.255.255.255,route 10.8.0.0 255.255.255.0,route 192.168.1.81 255.255.255.0,dhcp-option DNS 192.168.1.1,redirect-gateway def1,route 10.8.0.0 255.255.255.0,topology net30,ping 10,ping-restart 120,ifconfig 10.8.0.6 10.8.0.5,peer-id 1,cipher AES-256-GCM' (status=1)
+Wed Dec 27 01:49:11 2017 us=797275 igor001/5.184.236.178:4716 Data Channel MTU parms [ L:1550 D:1450 EF:50 EB:406 ET:0 EL:3 ]
+Wed Dec 27 01:49:11 2017 us=797927 igor001/5.184.236.178:4716 Data Channel Encrypt: Cipher 'AES-256-GCM' initialized with 256 bit key
+Wed Dec 27 01:49:11 2017 us=798010 igor001/5.184.236.178:4716 Data Channel Decrypt: Cipher 'AES-256-GCM' initialized with 256 bit key
+Wed Dec 27 01:49:11 2017 us=954107 igor001/5.184.236.178:4716 MULTI: bad source address from client [::], packet dropped
+Wed Dec 27 01:51:34 2017 us=879017 MULTI: multi_create_instance called
+Wed Dec 27 01:51:34 2017 us=879380 83.22.155.85:52937 Re-using SSL/TLS context
+Wed Dec 27 01:51:34 2017 us=879466 83.22.155.85:52937 LZO compression initializing
+Wed Dec 27 01:51:34 2017 us=879811 83.22.155.85:52937 Control Channel MTU parms [ L:1622 D:1184 EF:66 EB:0 ET:0 EL:3 ]
+Wed Dec 27 01:51:34 2017 us=879898 83.22.155.85:52937 Data Channel MTU parms [ L:1622 D:1450 EF:122 EB:406 ET:0 EL:3 ]
+Wed Dec 27 01:51:34 2017 us=880093 83.22.155.85:52937 Local Options String (VER=V4): 'V4,dev-type tun,link-mtu 1558,tun-mtu 1500,proto UDPv4,comp-lzo,keydir 0,cipher AES-256-CBC,auth SHA1,keysize 256,tls-auth,key-method 2,tls-server'
+Wed Dec 27 01:51:34 2017 us=880163 83.22.155.85:52937 Expected Remote Options String (VER=V4): 'V4,dev-type tun,link-mtu 1558,tun-mtu 1500,proto UDPv4,comp-lzo,keydir 1,cipher AES-256-CBC,auth SHA1,keysize 256,tls-auth,key-method 2,tls-client'
+Wed Dec 27 01:51:34 2017 us=880319 83.22.155.85:52937 TLS: Initial packet from [AF_INET]83.22.155.85:52937, sid=4b37414d afd39d2a
+Wed Dec 27 01:51:34 2017 us=962016 83.22.155.85:52937 VERIFY OK: depth=1, C=DE, ST=NRW, L=Aachen, O=Home, OU=RPHS, CN=RPHS, name=RPHS, emailAddress=igorsowa9@gmial.com
+Wed Dec 27 01:51:34 2017 us=964514 83.22.155.85:52937 VERIFY OK: depth=0, C=DE, ST=NRW, L=Aachen, O=Home, OU=RPHS, CN=igor001, name=RPHS, emailAddress=igorsowa9@gmial.com
+Wed Dec 27 01:51:34 2017 us=978869 83.22.155.85:52937 peer info: IV_VER=2.4.1
+Wed Dec 27 01:51:34 2017 us=988126 83.22.155.85:52937 peer info: IV_PLAT=win
+Wed Dec 27 01:51:34 2017 us=988221 83.22.155.85:52937 peer info: IV_PROTO=2
+Wed Dec 27 01:51:34 2017 us=988294 83.22.155.85:52937 peer info: IV_NCP=2
+Wed Dec 27 01:51:34 2017 us=988363 83.22.155.85:52937 peer info: IV_LZ4=1
+Wed Dec 27 01:51:34 2017 us=988450 83.22.155.85:52937 peer info: IV_LZ4v2=1
+Wed Dec 27 01:51:34 2017 us=988520 83.22.155.85:52937 peer info: IV_LZO=1
+Wed Dec 27 01:51:34 2017 us=988591 83.22.155.85:52937 peer info: IV_COMP_STUB=1
+Wed Dec 27 01:51:34 2017 us=988661 83.22.155.85:52937 peer info: IV_COMP_STUBv2=1
+Wed Dec 27 01:51:34 2017 us=988731 83.22.155.85:52937 peer info: IV_TCPNL=1
+Wed Dec 27 01:51:34 2017 us=988802 83.22.155.85:52937 peer info: IV_GUI_VER=OpenVPN_GUI_11
+Wed Dec 27 01:51:34 2017 us=992222 83.22.155.85:52937 Control Channel: TLSv1.2, cipher TLSv1/SSLv3 ECDHE-RSA-AES256-GCM-SHA384, 2048 bit RSA
+Wed Dec 27 01:51:34 2017 us=992385 83.22.155.85:52937 [igor001] Peer Connection Initiated with [AF_INET]83.22.155.85:52937
+Wed Dec 27 01:51:34 2017 us=993435 MULTI: new connection by client 'igor001' will cause previous active sessions by this client to be dropped.  Remember to use the --duplicate-cn option if you want multiple clients using the same certificate or username to concurrently connect.
+Wed Dec 27 01:51:34 2017 us=993532 MULTI_sva: pool returned IPv4=10.8.0.6, IPv6=(Not enabled)
+Wed Dec 27 01:51:34 2017 us=993832 MULTI: Learn: 10.8.0.6 -> igor001/83.22.155.85:52937
+Wed Dec 27 01:51:34 2017 us=993920 MULTI: primary virtual IP for igor001/83.22.155.85:52937: 10.8.0.6
+Wed Dec 27 01:51:36 2017 us=210788 igor001/83.22.155.85:52937 PUSH: Received control message: 'PUSH_REQUEST'
+Wed Dec 27 01:51:36 2017 us=211094 igor001/83.22.155.85:52937 SENT CONTROL [igor001]: 'PUSH_REPLY,route 10.8.0.1 255.255.255.255,route 10.8.0.0 255.255.255.0,route 192.168.1.81 255.255.255.0,dhcp-option DNS 192.168.1.1,redirect-gateway def1,route 10.8.0.0 255.255.255.0,topology net30,ping 10,ping-restart 120,ifconfig 10.8.0.6 10.8.0.5,peer-id 0,cipher AES-256-GCM' (status=1)
+Wed Dec 27 01:51:36 2017 us=211264 igor001/83.22.155.85:52937 Data Channel MTU parms [ L:1550 D:1450 EF:50 EB:406 ET:0 EL:3 ]
+Wed Dec 27 01:51:36 2017 us=211944 igor001/83.22.155.85:52937 Data Channel Encrypt: Cipher 'AES-256-GCM' initialized with 256 bit key
+Wed Dec 27 01:51:36 2017 us=212030 igor001/83.22.155.85:52937 Data Channel Decrypt: Cipher 'AES-256-GCM' initialized with 256 bit key
+Wed Dec 27 01:51:36 2017 us=430166 igor001/83.22.155.85:52937 MULTI: bad source address from client [::], packet dropped
+Wed Dec 27 01:56:07 2017 us=878421 igor001/83.22.155.85:52937 [igor001] Inactivity timeout (--ping-restart), restarting
+Wed Dec 27 01:56:07 2017 us=878619 igor001/83.22.155.85:52937 SIGUSR1[soft,ping-restart] received, client-instance restarting

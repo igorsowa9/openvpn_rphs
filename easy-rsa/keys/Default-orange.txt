@@ -1,0 +1,16 @@
+client 
+dev tun 
+proto upd
+remote 83.22.155.85 1194 
+resolv-retry infinite 
+nobind 
+persist-key 
+persist-tun 
+mute-replay-warnings 
+ns-cert-type server 
+key-direction 1 
+cipher AES-256-CBC 
+comp-lzo 
+auth-nocache
+verb 1 
+mute 20 

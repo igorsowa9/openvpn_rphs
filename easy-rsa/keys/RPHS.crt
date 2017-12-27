@@ -1,0 +1,98 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=DE, ST=NRW, L=Aachen, O=Home, OU=RPHS, CN=RPHS/name=RPHS/emailAddress=igorsowa9@gmial.com
+        Validity
+            Not Before: Dec 23 09:33:44 2017 GMT
+            Not After : Dec 21 09:33:44 2027 GMT
+        Subject: C=DE, ST=NRW, L=Aachen, O=Home, OU=RPHS, CN=RPHS/name=RPHS/emailAddress=igorsowa9@gmial.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:ed:a6:fd:67:5b:ea:1c:51:27:bc:21:2c:0f:01:
+                    b2:c7:15:26:4c:40:38:2a:ba:64:b7:93:84:6b:75:
+                    fe:b3:89:9d:88:d0:ad:b6:00:35:85:da:b9:27:2a:
+                    c2:26:b9:b7:3d:31:22:60:7f:41:e0:65:f8:02:0e:
+                    6e:7b:ad:00:a2:82:ef:f7:82:9b:15:72:98:cc:4a:
+                    f8:d9:29:61:26:a5:e7:9e:c0:8a:85:64:a6:a6:59:
+                    e7:79:4a:38:04:87:7c:a3:bd:5c:7d:d9:73:5f:93:
+                    fa:7a:ff:57:72:c9:bf:7d:d0:3f:1e:63:7b:bb:e6:
+                    21:3f:5c:44:ea:2b:47:2f:a6:dd:4e:52:73:ce:92:
+                    79:1e:b5:91:2e:02:f6:94:ce:1d:c7:04:39:d5:cb:
+                    8a:55:10:51:d0:42:cc:ea:2d:f2:cb:c5:75:8a:d0:
+                    fe:71:79:8a:91:ab:ab:71:e9:7b:2f:00:c6:16:8d:
+                    0b:09:a0:31:ff:6c:27:6e:92:1c:77:61:94:f6:9a:
+                    9c:be:ce:ee:a3:9a:7d:f5:54:9f:bc:d9:a2:eb:3e:
+                    3d:a7:dc:63:88:d2:8c:54:1b:11:b7:ef:b3:d8:a9:
+                    2c:71:c2:5f:21:57:2c:7c:67:23:a1:6c:f4:cf:13:
+                    6a:e3:37:cb:64:56:70:6b:00:77:21:a0:22:fe:b4:
+                    1d:99
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Cert Type: 
+                SSL Server
+            Netscape Comment: 
+                Easy-RSA Generated Server Certificate
+            X509v3 Subject Key Identifier: 
+                4C:7B:23:0A:D0:04:73:2C:17:94:46:BF:3E:0B:92:CC:F9:F5:D3:04
+            X509v3 Authority Key Identifier: 
+                keyid:41:BB:CE:36:07:38:80:B8:2C:E7:41:B1:88:87:DD:D2:4E:FE:2E:7E
+                DirName:/C=DE/ST=NRW/L=Aachen/O=Home/OU=RPHS/CN=RPHS/name=RPHS/emailAddress=igorsowa9@gmial.com
+                serial:C2:55:63:56:DE:10:C3:94
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+            X509v3 Subject Alternative Name: 
+                DNS:RPHS
+    Signature Algorithm: sha256WithRSAEncryption
+         42:23:06:da:aa:d5:78:0a:c2:45:c8:aa:27:41:cf:e6:e0:44:
+         d0:80:31:52:5b:34:0d:67:8e:f4:ce:c4:5f:13:2b:6a:a9:e4:
+         94:da:9d:d8:13:2f:77:69:f7:87:32:d7:6a:5f:6d:cc:52:89:
+         e2:17:ac:f4:06:a1:b0:57:39:18:e3:e8:a2:89:a6:7c:45:a3:
+         36:d5:81:54:8f:0f:87:c1:ae:35:29:4b:81:58:f3:28:d3:ac:
+         c3:8e:b7:42:f1:6c:71:04:1e:bb:f6:fe:a3:7c:76:26:b2:b7:
+         10:9a:80:77:ca:d1:bd:8a:d3:e3:68:df:1a:7f:cb:5e:1a:94:
+         68:06:1c:3c:e9:2b:5c:aa:2f:45:af:0c:d0:c3:ee:c2:bf:2c:
+         e9:df:ce:eb:90:1c:da:95:59:16:c3:9f:5e:5d:d8:7a:03:76:
+         6c:be:28:c5:10:89:a4:14:38:76:ba:4a:55:14:76:ad:de:b2:
+         84:6a:e6:64:c8:d9:a4:af:5b:98:1e:7c:91:09:88:2f:c3:44:
+         ca:b4:58:5f:ab:a0:07:6f:41:9a:bd:76:fd:c9:4e:86:e5:db:
+         e4:71:ac:32:e5:84:39:34:50:40:da:c0:84:e0:d2:8b:c6:cc:
+         34:96:51:cc:d9:51:b0:8f:d5:2d:f2:18:b4:60:02:95:18:11:
+         e8:90:32:87
+-----BEGIN CERTIFICATE-----
+MIIFBTCCA+2gAwIBAgIBATANBgkqhkiG9w0BAQsFADCBjDELMAkGA1UEBhMCREUx
+DDAKBgNVBAgTA05SVzEPMA0GA1UEBxMGQWFjaGVuMQ0wCwYDVQQKEwRIb21lMQ0w
+CwYDVQQLEwRSUEhTMQ0wCwYDVQQDEwRSUEhTMQ0wCwYDVQQpEwRSUEhTMSIwIAYJ
+KoZIhvcNAQkBFhNpZ29yc293YTlAZ21pYWwuY29tMB4XDTE3MTIyMzA5MzM0NFoX
+DTI3MTIyMTA5MzM0NFowgYwxCzAJBgNVBAYTAkRFMQwwCgYDVQQIEwNOUlcxDzAN
+BgNVBAcTBkFhY2hlbjENMAsGA1UEChMESG9tZTENMAsGA1UECxMEUlBIUzENMAsG
+A1UEAxMEUlBIUzENMAsGA1UEKRMEUlBIUzEiMCAGCSqGSIb3DQEJARYTaWdvcnNv
+d2E5QGdtaWFsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAO2m
+/Wdb6hxRJ7whLA8BsscVJkxAOCq6ZLeThGt1/rOJnYjQrbYANYXauScqwia5tz0x
+ImB/QeBl+AIObnutAKKC7/eCmxVymMxK+NkpYSal557AioVkpqZZ53lKOASHfKO9
+XH3Zc1+T+nr/V3LJv33QPx5je7vmIT9cROorRy+m3U5Sc86SeR61kS4C9pTOHccE
+OdXLilUQUdBCzOot8svFdYrQ/nF5ipGrq3Hpey8AxhaNCwmgMf9sJ26SHHdhlPaa
+nL7O7qOaffVUn7zZous+PafcY4jSjFQbEbfvs9ipLHHCXyFXLHxnI6Fs9M8TauM3
+y2RWcGsAdyGgIv60HZkCAwEAAaOCAW4wggFqMAkGA1UdEwQCMAAwEQYJYIZIAYb4
+QgEBBAQDAgZAMDQGCWCGSAGG+EIBDQQnFiVFYXN5LVJTQSBHZW5lcmF0ZWQgU2Vy
+dmVyIENlcnRpZmljYXRlMB0GA1UdDgQWBBRMeyMK0ARzLBeURr8+C5LM+fXTBDCB
+wQYDVR0jBIG5MIG2gBRBu842BziAuCznQbGIh93STv4ufqGBkqSBjzCBjDELMAkG
+A1UEBhMCREUxDDAKBgNVBAgTA05SVzEPMA0GA1UEBxMGQWFjaGVuMQ0wCwYDVQQK
+EwRIb21lMQ0wCwYDVQQLEwRSUEhTMQ0wCwYDVQQDEwRSUEhTMQ0wCwYDVQQpEwRS
+UEhTMSIwIAYJKoZIhvcNAQkBFhNpZ29yc293YTlAZ21pYWwuY29tggkAwlVjVt4Q
+w5QwEwYDVR0lBAwwCgYIKwYBBQUHAwEwCwYDVR0PBAQDAgWgMA8GA1UdEQQIMAaC
+BFJQSFMwDQYJKoZIhvcNAQELBQADggEBAEIjBtqq1XgKwkXIqidBz+bgRNCAMVJb
+NA1njvTOxF8TK2qp5JTandgTL3dp94cy12pfbcxSieIXrPQGobBXORjj6KKJpnxF
+ozbVgVSPD4fBrjUpS4FY8yjTrMOOt0LxbHEEHrv2/qN8diaytxCagHfK0b2K0+No
+3xp/y14alGgGHDzpK1yqL0WvDNDD7sK/LOnfzuuQHNqVWRbDn15d2HoDdmy+KMUQ
+iaQUOHa6SlUUdq3esoRq5mTI2aSvW5gefJEJiC/DRMq0WF+roAdvQZq9dv3JTobl
+2+RxrDLlhDk0UEDawITg0ovGzDSWUczZUbCP1S3yGLRgApUYEeiQMoc=
+-----END CERTIFICATE-----
